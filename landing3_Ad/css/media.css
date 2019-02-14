@@ -1,0 +1,30 @@
+@media screen and (max-width: 1920px) {
+
+}
+@media screen and (max-width: 1368px) {
+    .offer__bg {
+        font-size: 150px;
+    }
+    .offer__title {
+            margin-left: 50px;
+    }
+    .offer__text {
+            margin-left: 50px;
+    }
+    .offer__btn {
+        margin-left: 50px;
+    }
+    .next {
+        font-size: 200px;
+    width: 250px;
+    margin-left: 40px;
+    }
+    .service {
+        flex-direction: column;
+    }
+    .service__item {
+        width: 100%;
+        margin-bottom: 60px;
+
+    }
+}
